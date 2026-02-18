@@ -6,11 +6,11 @@ declare(strict_types=1);
 namespace sergittos\bedwars\form\setup;
 
 
-use dresnite\EasyUI\element\Dropdown;
-use dresnite\EasyUI\element\Input;
-use dresnite\EasyUI\element\Option;
-use dresnite\EasyUI\element\Slider;
-use dresnite\EasyUI\utils\FormResponse;
+use sergittos\bedwars\libs\_39a99aab50f42692\dresnite\EasyUI\element\Dropdown;
+use sergittos\bedwars\libs\_39a99aab50f42692\dresnite\EasyUI\element\Input;
+use sergittos\bedwars\libs\_39a99aab50f42692\dresnite\EasyUI\element\Option;
+use sergittos\bedwars\libs\_39a99aab50f42692\dresnite\EasyUI\element\Slider;
+use sergittos\bedwars\libs\_39a99aab50f42692\dresnite\EasyUI\utils\FormResponse;
 use pocketmine\player\GameMode;
 use pocketmine\player\Player;
 use pocketmine\Server;

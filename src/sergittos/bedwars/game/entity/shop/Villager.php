@@ -6,7 +6,7 @@ declare(strict_types=1);
 namespace sergittos\bedwars\game\entity\shop;
 
 
-use dresnite\EasyUI\Form;
+use sergittos\bedwars\libs\_39a99aab50f42692\dresnite\EasyUI\Form;
 use pocketmine\entity\Entity;
 use pocketmine\entity\EntitySizeInfo;
 use pocketmine\event\entity\EntityDamageByChildEntityEvent;

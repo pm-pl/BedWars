@@ -6,9 +6,9 @@ declare(strict_types=1);
 namespace sergittos\bedwars\form;
 
 
-use dresnite\EasyUI\element\Button;
-use dresnite\EasyUI\Form;
-use dresnite\EasyUI\variant\SimpleForm as EasyUISimpleForm;
+use sergittos\bedwars\libs\_39a99aab50f42692\dresnite\EasyUI\element\Button;
+use sergittos\bedwars\libs\_39a99aab50f42692\dresnite\EasyUI\Form;
+use sergittos\bedwars\libs\_39a99aab50f42692\dresnite\EasyUI\variant\SimpleForm as EasyUISimpleForm;
 use pocketmine\math\Vector3;
 use pocketmine\player\Player;
 

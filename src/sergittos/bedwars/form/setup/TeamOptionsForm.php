@@ -6,7 +6,7 @@ declare(strict_types=1);
 namespace sergittos\bedwars\form\setup;
 
 
-use dresnite\EasyUI\element\Button;
+use sergittos\bedwars\libs\_39a99aab50f42692\dresnite\EasyUI\element\Button;
 use pocketmine\player\Player;
 use sergittos\bedwars\form\SimpleForm;
 use sergittos\bedwars\session\Session;

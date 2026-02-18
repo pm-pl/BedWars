@@ -7,7 +7,7 @@ namespace sergittos\bedwars\game\entity\shop;
 
 
 
-use dresnite\EasyUI\Form;
+use sergittos\bedwars\libs\_39a99aab50f42692\dresnite\EasyUI\Form;
 use sergittos\bedwars\form\shop\ShopForm;
 use sergittos\bedwars\game\shop\Shop;
 use sergittos\bedwars\game\shop\ShopFactory;

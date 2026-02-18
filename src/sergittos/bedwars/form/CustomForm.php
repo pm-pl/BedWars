@@ -6,9 +6,9 @@ declare(strict_types=1);
 namespace sergittos\bedwars\form;
 
 
-use dresnite\EasyUI\element\Dropdown;
-use dresnite\EasyUI\element\Option;
-use dresnite\EasyUI\variant\CustomForm as EasyUICustomForm;
+use sergittos\bedwars\libs\_39a99aab50f42692\dresnite\EasyUI\element\Dropdown;
+use sergittos\bedwars\libs\_39a99aab50f42692\dresnite\EasyUI\element\Option;
+use sergittos\bedwars\libs\_39a99aab50f42692\dresnite\EasyUI\variant\CustomForm as EasyUICustomForm;
 use sergittos\bedwars\utils\GameUtils;
 
 class CustomForm extends EasyUICustomForm {

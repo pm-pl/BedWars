@@ -6,8 +6,8 @@ declare(strict_types=1);
 namespace sergittos\bedwars\form\setup;
 
 
-use dresnite\EasyUI\element\ModalOption;
-use dresnite\EasyUI\variant\ModalForm;
+use sergittos\bedwars\libs\_39a99aab50f42692\dresnite\EasyUI\element\ModalOption;
+use sergittos\bedwars\libs\_39a99aab50f42692\dresnite\EasyUI\variant\ModalForm;
 use pocketmine\player\Player;
 use sergittos\bedwars\game\generator\Generator;
 use sergittos\bedwars\session\SessionFactory;
